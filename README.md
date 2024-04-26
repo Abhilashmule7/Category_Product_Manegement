@@ -219,11 +219,15 @@ Swagger UI is a web interface that automatically generates documentation for you
 
 For the integration between spring-boot and swagger-ui, add the library to the list of your project dependencies (No additional configuration is needed) which is given below.
 
-  <groupId>org.springdoc</groupId>
-  
-          <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-  
-  <version>2.5.0</version>
+<dependency>
+      
+      <groupId>org.springdoc</groupId>
+      
+      <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+      
+      <version>2.5.0</version>
+      
+</dependency>
   
 **Swagger Integration:**
 
