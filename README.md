@@ -100,7 +100,7 @@ Find the specific ZIP file you want to download. It may be located in the reposi
 
 Click on the name of the ZIP file to open it.
 
-44 Download the ZIP file:** 
+**4.4 Download the ZIP file:** 
 
 On the file page, you should see a "Download" button. Click on it to download the ZIP file to your computer.
 
