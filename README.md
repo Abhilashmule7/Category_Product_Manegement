@@ -140,6 +140,7 @@ After importing the project, your IDE may automatically start building it. If no
 Once the project is imported and built, you can explore its structure, view source code files, and start working on it within your IDE.
 
 **6 Maven:** 
+
 The project is managed using Maven, a build automation tool primarily used for Java projects. Make sure you have Maven installed on your system. You can download Maven from the Apache Maven website.
 
 **7 MySQL Database:**
@@ -147,6 +148,7 @@ The project is managed using Maven, a build automation tool primarily used for J
 The project seems to be using MySQL as the database. Ensure that you have MySQL installed and running on your system. You may need to create a database for the project and configure the connection details accordingly.
 
 **Configuration MySQL Database:**
+
 The main configuration file for the application is application.properties, located in the src/main/resources directory. You can modify this file to change various application settings such as database connection details, server port, logging configuration, etc.
 
 You can configure the application using environment variables. Set the following environment variables according to your setup:
