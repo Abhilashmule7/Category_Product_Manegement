@@ -7,13 +7,17 @@ A CRUD (Create, Read, Update, Delete) application for managing products and cate
 
 -Installation
 
+-Downloading the ZIP file from GitHub
+
+-Importing the project into your IDE
+
 -Usage 
 
 -Postman
 
 -Technologies Used
 
-**Description**
+**1 Description**
 
 This application provides functionality to manage products and categories. The Product Category Application is a CRUD (Create, Read, Update, Delete) application built using Java and Spring Boot. It allows users to manage products and categories through RESTful API endpoints. Users can perform various operations such as creating, reading, updating, and deleting products and categories.
 
@@ -21,15 +25,15 @@ The application provides endpoints for managing both products and categories sep
 
 This application is useful for businesses or developers who need a simple yet effective way to manage product and category data. It provides a straightforward API interface for interacting with product and category information, making it easy to integrate with other systems or use as a standalone service.
 
-**Installation:**
+**2 Installation:**
 
 **_To install and run the provided project, you'll need the following:_**
 
-**1 Java Development Kit (JDK):**
+**2.1 Java Development Kit (JDK):**
 
 Ensure that you have JDK installed on your system. You can download and install JDK from the official Oracle website or use OpenJDK, which is an open-source alternative.
 
-**2 Integrated Development Environment (IDE):**
+**2.2 Integrated Development Environment (IDE):**
 
 You can use any Java IDE of your choice to work with the project. Some popular IDE options include:
 
@@ -43,8 +47,9 @@ You can use any Java IDE of your choice to work with the project. Some popular I
 
 These IDEs provide features such as code editing, debugging, version control integration, and project management.
 
-**3 Downloading the ZIP file from GitHub:**
+**2.3 Downloading the ZIP file from GitHub:**
 Downloading a specific ZIP file from a GitHub repository and importing it into an IDE is a straightforward process. Here's a step-by-step guide:
+
 
 **3.1 Navigate to the GitHub repository:** 
 
@@ -65,6 +70,8 @@ On the file page, you should see a "Download" button. Click on it to download th
 **3.5 Wait for the download to complete:**
 
 Depending on the size of the ZIP file and your internet connection speed, the download may take some time to complete.
+
+
 
 **4 Importing the project into your IDE:**
 
