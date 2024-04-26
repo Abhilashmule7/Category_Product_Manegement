@@ -9,11 +9,9 @@ A CRUD (Create, Read, Update, Delete) application for managing products and cate
 
 -Usage 
 
--Endpoints
+-Postman
 
 -Technologies Used
-
--Contributing
 
 **Description**
 
