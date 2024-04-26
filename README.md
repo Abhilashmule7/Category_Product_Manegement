@@ -82,7 +82,9 @@ You can use any Java IDE of your choice to work with the project. Some popular I
 
 These IDEs provide features such as code editing, debugging, version control integration, and project management.
 
+
 **4 Downloading the ZIP file from GitHub:**
+
 Downloading a specific ZIP file from a GitHub repository and importing it into an IDE is a straightforward process. Here's a step-by-step guide:
 
 
